@@ -1,0 +1,10 @@
+{
+    "server": {
+        "host": "127.0.0.1:1337"
+    },
+    "routes": {},
+    "static": {
+        "directory": ".",
+        "served_from": "/"
+    }
+}
